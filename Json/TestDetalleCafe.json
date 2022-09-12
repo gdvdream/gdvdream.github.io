@@ -9,7 +9,7 @@
             "description": "Este es un cafe de prueba que se será exitosa",
             "price": 12,
             "stars": 4,
-            "img": "image/Coffe03.png",
+            "img": "image/Caffe03.png",
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
@@ -19,14 +19,27 @@
         {
             "id": 2,
             "name": "Cafe de prueba 2",
-            "description": "Este segunda es un cafe de prueba que se será exitosa",
+            "description": "Esta segunda es un cafe de prueba que se será exitosa",
             "price": 15,
-            "stars": 5,
-            "img": "image/Coffe04.jpg",
+            "stars": 4,
+            "img": "image/Caffe04.jpg",
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
             "type_id": 2
+
+        }
+        {
+            "id": 3,
+            "name": "Cafe de prueba 3",
+            "description": "Esta tercera es un cafe de prueba que se será exitosa",
+            "price": 20,
+            "stars": 4,
+            "img": "image/Caffe04.jpg",
+            "location": "La Paz",
+            "created_at": "2022-09",
+            "update_at": "2022-09",
+            "type_id": 3
 
         }
     ]
