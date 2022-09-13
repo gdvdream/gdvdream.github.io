@@ -5,8 +5,8 @@
     "products": [
         {
             "id": 1,
-            "name": "Cafe HAZELNUT'",
-            "description": "Este es un cafe de prueba que se será exitosa",
+            "name": "Cafe HAZELNUT",
+            "description": "Un exquisito Café con Avellana, enriquecido con extracto de Ganoderma Lucidum ",
             "price": 12,
             "stars": 4,
             "img": "images/Coffe001.jpg",
@@ -19,7 +19,7 @@
         {
             "id": 2,
             "name": "Cafe PUMPKIN SPICE LATTE",
-            "description": "Esta segunda es un cafe de prueba que se será exitosa",
+            "description": "Café hecho con una mezcla de sabores tradicionales de especias otoñales (canela, nuez moscada y clavo)",
             "price": 15,
             "stars": 4,
             "img": "images/Coffe002.jpg",
@@ -32,7 +32,7 @@
         {
             "id": 3,
             "name": "Cafe ENGLISH TOFFEE",
-            "description": "Esta tercera es un cafe de prueba que se será exitosa",
+            "description": "Sabor a caramelo dulce y cremoso",
             "price": 20,
             "stars": 4,
             "img": "images/Coffe003.jpg",
