@@ -41,6 +41,19 @@
             "update_at": "2022-09",
             "type_id": 3
 
+        },
+        {
+            "id": 4,
+            "name": "Cafe BLACK CHERRY",
+            "description": "Café tostado medio con sabor natural, con cerezas, mora y raíz de regaliz",
+            "price": 20,
+            "stars": 4,
+            "img": "images/Coffe004.jpg",
+            "location": "La Paz",
+            "created_at": "2022-09",
+            "update_at": "2022-09",
+            "type_id": 4
+
         }
     ]
 
