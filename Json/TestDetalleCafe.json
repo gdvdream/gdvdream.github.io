@@ -5,7 +5,7 @@
     "products": [
         {
             "id": 1,
-            "name": "Iglesia Cada de unidad",
+            "name": "Iglesia 'Casa de Unidad'",
             "description": "Este es un cafe de prueba que se será exitosa",
             "price": 12,
             "stars": 4,
