@@ -5,7 +5,7 @@
     "products": [
         {
             "id": 1,
-            "name": "Cafe de prueba",
+            "name": "Iglesia Cada de unidad",
             "description": "Este es un cafe de prueba que se será exitosa",
             "price": 12,
             "stars": 4,
@@ -18,7 +18,7 @@
         },
         {
             "id": 2,
-            "name": "Cafe de prueba 2",
+            "name": "Nosglia is News",
             "description": "Esta segunda es un cafe de prueba que se será exitosa",
             "price": 15,
             "stars": 4,
@@ -31,7 +31,7 @@
         },
         {
             "id": 3,
-            "name": "Cafe de prueba 3",
+            "name": "Oferta del mes",
             "description": "Esta tercera es un cafe de prueba que se será exitosa",
             "price": 20,
             "stars": 4,
