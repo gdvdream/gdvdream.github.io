@@ -1,12 +1,12 @@
 {
-    "total_size": 3,
+    "total_size": 4,
     "type_id": 3,
     "offset": 0,
     "products": [
         {
             "id": 1,
             "name": "Cafe HAZELNUT",
-            "description": "Un exquisito Café con Avellana, enriquecido con extracto de Ganoderma Lucidum ",
+            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum ",
             "price": 12,
             "stars": 4,
             "img": "images/Coffe001.jpg",
@@ -32,7 +32,7 @@
         {
             "id": 3,
             "name": "Cafe ENGLISH TOFFEE",
-            "description": "Sabor a caramelo dulce y cremoso",
+            "description": "Café con sabor a caramelo dulce y cremoso",
             "price": 20,
             "stars": 4,
             "img": "images/Coffe003.jpg",
