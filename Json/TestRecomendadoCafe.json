@@ -106,7 +106,34 @@
             "update_at": "2022-09",
             "type_id": 142
 
-        }
+        },
+        {
+            "id": 151,
+            "name": "Café YORK - Mediano",
+            "description": "Café espresso y gran capa de leche caliente emulsionada. Decorado con sirope de chocolate o caramelo. Disfrutalo en su tamaño mediano de 12 oz",
+            "price": 20,
+            "stars": 4,
+            "img": "images/Coffe008.jpg",
+            "location": "La Paz",
+            "created_at": "2022-09",
+            "update_at": "2022-09",
+            "type_id": 141
+
+        },
+        {
+            "id": 152,
+            "name": "Café YORK - Grande",
+            "description": "Café espresso y gran capa de leche caliente emulsionada. Decorado con sirope de chocolate o caramelo. Disfrutalo en su tamaño grande de 16 oz",
+            "price": 24,
+            "stars": 4,
+            "img": "images/Coffe008.jpg",
+            "location": "La Paz",
+            "created_at": "2022-09",
+            "update_at": "2022-09",
+            "type_id": 142
+
+        },
+        
     ]
 
 }
