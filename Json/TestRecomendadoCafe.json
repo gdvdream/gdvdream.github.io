@@ -118,7 +118,6 @@
             "created_at": "2022-09",
             "update_at": "2022-09",
             "type_id": 141
-
         },
         {
             "id": 152,
@@ -130,10 +129,8 @@
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
-            "type_id": 142
-
-        },
-        
+            "type_id": 152
+        } 
     ]
 
 }
