@@ -5,8 +5,8 @@
     "products": [
         {
             "id": 111,
-            "name": "Cafe HAZELNUT - Pequeño 8 oz",
-            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum ",
+            "name": "Café HAZELNUT - Pequeño",
+            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum. Disfrutalo en su tamaño pequeño de 8 oz.",
             "price": 16,
             "stars": 4,
             "img": "images/Coffe001.jpg",
@@ -18,8 +18,8 @@
         },
         {
             "id": 112,
-            "name": "Cafe HAZELNUT - Mediano 12 oz",
-            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum ",
+            "name": "Café HAZELNUT - Mediano",
+            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum. Disfrutalo en su tamaño mediano de 12 oz.",
             "price": 20,
             "stars": 4,
             "img": "images/Coffe001.jpg",
@@ -31,8 +31,8 @@
         },
         {
             "id": 113,
-            "name": "Cafe HAZELNUT - Grande 16 oz",
-            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum ",
+            "name": "Café HAZELNUT - Grande",
+            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum. Disfrutalo en su tamaño grande de 16 oz.",
             "price": 24,
             "stars": 4,
             "img": "images/Coffe001.jpg",
@@ -44,7 +44,7 @@
         },
         {
             "id": 12,
-            "name": "Cafe PUMPKIN SPICE LATTE",
+            "name": "Café PUMPKIN SPICE LATTE",
             "description": "Café hecho con una mezcla de sabores tradicionales de especias otoñales (canela, nuez moscada y clavo)",
             "price": 15,
             "stars": 4,
@@ -57,7 +57,7 @@
         },
         {
             "id": 13,
-            "name": "Cafe ENGLISH TOFFEE",
+            "name": "Café ENGLISH TOFFEE",
             "description": "Café con sabor a caramelo dulce y cremoso",
             "price": 20,
             "stars": 4,
@@ -70,7 +70,7 @@
         },
         {
             "id": 14,
-            "name": "Cafe BLACK CHERRY",
+            "name": "Café BLACK CHERRY",
             "description": "Café tostado medio de sabor natural, con cerezas, mora y raíz de regaliz",
             "price": 20,
             "stars": 4,
