@@ -5,11 +5,11 @@
     "products": [
         {
             "id": 1,
-            "name": "Cafe French Vainilla - Grande",
-            "description": "Si bien está inspirado en la tradición francesa, este envase de Breyers® aún conserva gran parte del orgullo estadounidense. Cada Breyers® French Vanilla contiene crema y leche 100 % de grado A, provenientes de vacas estadounidenses que no han sido tratadas con hormonas artificiales de crecimiento. Disfrutalo en su tamaño grande de 16 oz",
-            "price": 24,
+            "name": "Café PUMPKIN SPICE LATTE - Pequeño",
+            "description": "Café hecho con una mezcla de sabores tradicionales de especias otoñales (canela, nuez moscada y clavo). EL MAS SOLICITADO en su tamaño pequeño de 8 oz",
+            "price": 16,
             "stars": 4,
-            "img": "images/Coffe005.jpg",
+            "img": "images/Coffe002.jpg",
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
