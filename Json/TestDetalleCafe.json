@@ -5,11 +5,11 @@
     "products": [
         {
             "id": 1,
-            "name": "Café HAZELNUT - Pequeño",
-            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum. Disfrutalo en su tamaño pequeño de 8 oz",
-            "price": 16,
+            "name": "Café CAPUCCINO - Grande",
+            "description": "El capucchino es un clásico, un café con cacao que apetece probarlo a todas horas, lo podemos disfrutar de una y mil formas distintas con esta receta. Prepararte un capuchino en casa como si estuvieras en un bar del centro de Roma es posible con unos sencillos pasos. Un buen café es indispensable, al igual que el cacao que conseguirá que el café potencie aún más su sabor. Disfrutalo en su tamaño grande de 16 oz",
+            "price": 18,
             "stars": 4,
-            "img": "images/Coffe001.jpg",
+            "img": "images/Coffe009.jpg",
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
@@ -18,11 +18,11 @@
         },
         {
             "id": 2,
-            "name": "Café PUMPKIN SPICE LATTE - Pequeño",
-            "description": "Café hecho con una mezcla de sabores tradicionales de especias otoñales (canela, nuez moscada y clavo). EL MAS SOLICITADO en su tamaño pequeño de 8 oz",
+            "name": "Café HAZELNUT - Pequeño",
+            "description": "Café con Avellana, enriquecido con extracto de Ganoderma Lucidum. Disfrutalo en su tamaño pequeño de 8 oz",
             "price": 16,
             "stars": 4,
-            "img": "images/Coffe002.jpg",
+            "img": "images/Coffe001.jpg",
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
@@ -31,11 +31,11 @@
         },
         {
             "id": 3,
-            "name": "Café Almond Joe - Grande",
-            "description": "Agregue sabor a nuez de chocolate y coco a su rutina matutina con Almond Joy Coffee. Un chorrito o dos de esta crema casera convierte tu ritual diario de café en un placer especial. Bebe y saborea en café caliente o helado. Disfrutalo en su tamaño grande de 16 oz",
-            "price": 24,
+            "name": "Café PUMPKIN SPICE LATTE - Pequeño",
+            "description": "Café hecho con una mezcla de sabores tradicionales de especias otoñales (canela, nuez moscada y clavo). EL MAS SOLICITADO en su tamaño pequeño de 8 oz",
+            "price": 16,
             "stars": 4,
-            "img": "images/Coffe006.jpg",
+            "img": "images/Coffe002.jpg",
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
@@ -44,6 +44,19 @@
         },
         {
             "id": 4,
+            "name": "Café Almond Joe - Grande",
+            "description": "Agregue sabor a nuez de chocolate y coco a su rutina matutina con Almond Joy Coffee. Un chorrito o dos de esta crema casera convierte tu ritual diario de café en un placer especial. Bebe y saborea en café caliente o helado. Disfrutalo en su tamaño grande de 16 oz",
+            "price": 24,
+            "stars": 4,
+            "img": "images/Coffe006.jpg",
+            "location": "La Paz",
+            "created_at": "2022-09",
+            "update_at": "2022-09",
+            "type_id": 4
+
+        },
+        {
+            "id": 5,
             "name": "Café Expresso Doble - El mejor",
             "description": "El café expreso es un tipo de café que contiene mayor cantidad de cafeína por volumen que la mayoría de los cafés, por eso se sirve en tazas pequeñas. No es que tenga más cafeína que el resto, sino que está concentrada en menor líquido. Un buen expreso es uno de los grandes placeres de la vida. No hay nada como ese momento de paz cuando estás desayunando y disfrutas del aroma del café. Disfrutalo doble",
             "price": 14,
@@ -52,7 +65,7 @@
             "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
-            "type_id": 4
+            "type_id": 5
         }
     ]
 
