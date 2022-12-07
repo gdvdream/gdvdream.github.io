@@ -1,0 +1,44 @@
+{
+    "total_size": 1,
+    "type_id": 3,
+    "offset": 0,
+    "products": [
+        {
+            "id": 1,
+            "palabra": "LUZ DEL MUNDO",
+            "versiculo": "Juan 8:12",
+            "type_id": 1
+        },
+        {
+            "id": 2,
+            "palabra": "ABOGADO",
+            "versiculo": "1 Juan 2:1",
+            "type_id": 2        
+        },
+        {
+            "id": 3,
+            "palabra": "EL ALFA & OMEGA",
+            "versiculo": "Apocalipsis 22:13",
+            "type_id": 3
+        },
+        {
+            "id": 4,
+            "palabra": "EMANUEL",
+            "versiculo": "Mateo 1:23",
+            "type_id": 4
+        },
+        {
+            "id": 5,
+            "palabra": "PAN DE VIDA",
+            "versiculo": "Juan 6:35",
+            "type_id": 5
+        },
+        {
+            "id": 6,
+            "palabra": "TESTIGO FIEL Y VERDADERO",
+            "versiculo": "Apocalipsis 3:14",
+            "type_id": 6
+        }
+    ]
+
+}

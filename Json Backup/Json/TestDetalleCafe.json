@@ -5,12 +5,12 @@
     "products": [
         {
             "id": 1,
-            "name": "Pollipapa",
-            "description": "Trocitos de pollo acompañados de papa, arroz o fideo",
-            "price": 25,
+            "name": "Café CAPUCCINO - Grande",
+            "description": "El capucchino es un clásico, un café con cacao que apetece probarlo a todas horas, lo podemos disfrutar de una y mil formas distintas con esta receta. Prepararte un capuchino en casa como si estuvieras en un bar del centro de Roma es posible con unos sencillos pasos. Un buen café es indispensable, al igual que el cacao que conseguirá que el café potencie aún más su sabor. Disfrutalo en su tamaño grande de 16 oz",
+            "price": 18,
             "stars": 4,
-            "img": "images/Rosita001.jpg",
-            "location": "Sucre",
+            "img": "images/Coffe009.jpg",
+            "location": "La Paz",
             "created_at": "2022-09",
             "update_at": "2022-09",
             "type_id": 1
